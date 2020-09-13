@@ -1,0 +1,20 @@
+
+[1;34mDomain                        [m [1;32mDmarc                         [m
+uac.bj                                                                                       
+iscguniversite.edu.bj                                                                        
+esepleberger.edu.bj                                                                          
+iup.edu.bj                                                                                   
+escae.edu.bj                                                                                 
+unstim.bj                                                                                    
+esmer.bj                                                                                     
+cnertp.bj                                                                                    
+espeduc.bj                                                                                   
+eigb.bj                                                                                      
+esae.bj                          "v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:patrice@tossavi.bj;ruf=mailto:patrice@tossavi.bj"
+education.benin.bj                                                                           
+eresultat.bj                                                                                 
+elearning.bj                                                                                 
+fnrsit.bj                                                                                    
+epitech.bj                       "v=DMARC1; p=none; rua=mailto:dev@epitech.bj; ruf=mailto:dev@epitech.bj;"
+decsupbenin.bj                   "v=DMARC1; p=none"                                          
+academie-sciences.bj                                                                         

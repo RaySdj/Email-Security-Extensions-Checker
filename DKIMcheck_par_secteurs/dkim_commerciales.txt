@@ -1,0 +1,25 @@
+Domain                         Dkim Record                   
+taka.bj                                                                                      
+betra.bj                         "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr6Nd4KwTZUMh7V1ueqHsfukKGTNBtQnBHTi/hlystqD/m0CWCZIr4b2euy/yoTdt7q/dpyA7rMAiN5OI4BvvZc1eJzFRekPwsvsqzvXxI0vH5MqfP/z169YaNkQcKnEI6ddyjQv8kJUiMauL0RIP1P9FQXrWpaWr9XO1/RlsfhGjNRW2tEN3HJKrkEkO5sRVJ" "jfnd9tnUk9t6iRaP1xLKQEeEGXUnkEVGA4WdV40nPxADEVklcJcKexAw50jQjpUMhcWHrmO/fMoOlMAS60nYK7gFAeBdReakrB/Uz8T46BSTe9dELP1mhJrcurnJQ9mujJ5GSCcPsPxO1JBN5XMTQIDAQAB"
+"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhV3PbK5wpD4LBjFqswoWNhpmcDCqh1jXJ3U02xdgHcOCZzXFUvIRkycFo5oz0Eppjuo7aviZ3XR5KFsk96TKk4x46Ruz0rO1kONob8voJz1VMwKO+ADFgdca1snlQyV3TVbNbb2mmdtADV5TX8WpubBOINtoXM4h2Nqc3H1WMV2xtN2DEvCuUwwE6E/Bteg+7" "TOkJQSIQlso1xAnQbLQ3OH2A11WDC7Nc+E5if1KA5lyuGHln1tRp+mxpwtIBeHZpj7pabcjAnOcc1EnZaNccH/1eqH1LVaPIOsiwUyDCwHfK358BKd1n8fnVB5UUu24pk0igzFfxsDZoKe6jyGGhQIDAQAB"
+amab.bj                                                                                      
+hertz.bj                                                                                     
+t-shop.bj                                                                                    
+afriregister.bj                                                                              
+dokaanou.bj                                                                                  
+sunkompanye.bj                                                                               
+m-recycling.bj                                                                               
+allopressing.bj                                                                              
+smspressing.bj                                                                               
+commerce.bj                                                                                  
+highlife.bj                                                                                  
+lemarche.bj                                                                                  
+axime.bj                                                                                     
+somehal.bj                                                                                   
+megaglobal.bj                                                                                
+situvolailles.bj                                                                             
+lesbonnesaffaires.bj                                                                         
+raynis.bj                                                                                    
+2scsarl.bj                                                                                   
+open.bj                                                                                      
+bolivebusinessinter.bj   

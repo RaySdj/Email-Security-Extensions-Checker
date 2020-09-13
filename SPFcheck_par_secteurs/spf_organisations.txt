@@ -1,0 +1,8 @@
+
+[1;34mDomain                        [m [1;32mSPF records                   [m
+aifo-uemoa.bj                    "v=spf1 a mx include:webhostbox.net ~all"                   
+alcrer.bj                        "v=spf1 ip4:50.31.134.63 include:relay.mailchannels.net +a +mx +ip4:198.38.85.38 +ip4:198.38.85.45 +ip4:198.38.82.143 ~all"
+mcabenin2.bj                     "v=spf1 a mx include:websitewelcome.com ~all"               
+hcbe.bj                          "v=spf1 +a +mx +ip4:199.16.128.102 ~all"                    
+paj.bj                           "v=spf1 a mx include:websitewelcome.com ~all"               
+nim-buram.bj                     "v=spf1 ip4:50.31.134.63 include:relay.mailchannels.net +a +mx +ip4:198.38.85.38 ~all"

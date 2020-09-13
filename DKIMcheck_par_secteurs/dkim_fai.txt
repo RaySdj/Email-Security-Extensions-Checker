@@ -1,0 +1,17 @@
+Domain                         Dkim Record                   
+mtn.bj                                                                                       
+moov.bj                                                                                      
+via.bj                                                                                       
+otitelecom.bj                                                                                
+sudtelecom.bj                                                                                
+jenysas.bj                                                                                   
+isocelmail.bj                                                                                
+tdshosting.bj                                                                                
+fibrocom.bj                                                                                  
+4gbenin.bj                                                                                   
+benintelecoms.bj                                                                             
+technodatastore.bj                                                                           
+knif.bj                                                                                      
+be.bj                                                                                        
+beninweb.bj                                                                                  
+technodatasolutions.bj  

@@ -1,0 +1,10 @@
+
+[1;34mDomain                        [m [1;32mDmarc                         [m
+finances.bj                      "v=DMARC1;p=quarantine;pct=100;"                            
+bsicbank.bj                                                                                  
+corisbank.bj                                                                                 
+cnss.bj                                                                                      
+bsic.bj                                                                                      
+etransfert.bj                                                                                
+cspef.bj                                                                                     
+fnm.bj                                                                                       

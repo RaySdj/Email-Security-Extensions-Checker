@@ -1,0 +1,22 @@
+
+[1;34mDomain                        [m [1;32mSPF records                   [m
+uac.bj                           "v=spf1 mx -all"                                            
+iscguniversite.edu.bj                                                                        
+esepleberger.edu.bj              "v=spf1 +a +mx +ip4:173.249.52.118 +ip4:178.238.236.196 ~all"
+iup.edu.bj                       "v=spf1 ip4:173.208.198.2 a mx include:webhostbox.net ~all" 
+escae.edu.bj                     "v=spf1 ip4:204.93.196.26 include:relay.mailchannels.net +a +mx +ip4:198.38.86.117 +ip4:204.93.178.24 +ip4:198.38.83.198 ~all"
+unstim.bj                        "v=spf1 a mx include:webhostbox.net ~all"                   
+esmer.bj                         "v=spf1 ip4:204.93.178.58 include:relay.mailchannels.net +a +mx +ip4:204.93.193.235 ~all"
+cnertp.bj                        "v=spf1 a mx -all"                                          
+espeduc.bj                       "v=spf1 +a +mx +ip4:91.234.194.126 +ip4:91.234.194.127 ~all"
+eigb.bj                          "v=spf1 +a +mx +ip4:173.249.52.118 ~all"                    
+esae.bj                          "v=spf1 +a +mx +ip4:173.249.52.118 +ip4:51.254.103.146 ~all"
+education.benin.bj               "v=spf1 include:benin.bj -all"
+"v=spf1 +a +mx +ip4:178.79.166.163 +ip4:178.79.138.111 +ip4:80.85.86.126 ~all"
+eresultat.bj                                                                                 
+elearning.bj                                                                                 
+fnrsit.bj                        "v=spf1 +a +mx +ip4:192.64.112.83 ~all"                     
+epitech.bj                       "v=spf1 include:mx.ovh.com ~all"                            
+decsupbenin.bj                   "v=spf1 +a +mx +a:h2699087.stratoserver.net -all"           
+academie-sciences.bj             "v=spf1 a mx -all"
+"v=spf1 +a +mx +ip4:178.79.166.163 +ip4:178.79.138.111 +ip4:80.85.86.126 ~all"

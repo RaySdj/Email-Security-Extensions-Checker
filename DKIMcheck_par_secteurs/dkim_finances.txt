@@ -1,0 +1,10 @@
+
+Domain                         Dkim Record                   
+finances.bj                                                                                  
+bsicbank.bj                                                                                  
+corisbank.bj                                                                                 
+cnss.bj                                                                                      
+bsic.bj                                                                                      
+etransfert.bj                                                                                
+cspef.bj                                                                                     
+fnm.bj      

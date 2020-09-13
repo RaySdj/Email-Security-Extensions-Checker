@@ -1,0 +1,27 @@
+
+[1;34mDomain                        [m [1;32mSPF records                   [m
+taka.bj                          "v=spf1 ip4:37.187.252.187 +a +mx ~all"                     
+betra.bj                         "v=spf1 include:_spf.google.com ~all"                       
+amab.bj                          "v=spf1 ip4:91.234.194.177 +a +mx ~all"                     
+hertz.bj                         "v=spf1 include:mx.ovh.com ~all"                            
+t-shop.bj                                                                                    
+afriregister.bj                  "v=spf1 +a +mx +ip4:88.208.201.35 +ip4:88.208.249.110 ~all" 
+dokaanou.bj                      "v=spf1 ip4:146.88.234.76 ip4:146.88.234.76 +a +mx +ip4:185.22.109.60 ~all"
+sunkompanye.bj                   "v=spf1 +a +mx +ip4:178.79.166.163 +ip4:178.79.138.111 +ip4:80.85.86.126 ~all"
+m-recycling.bj                   "v=spf1 ip4:162.241.27.12 +a +mx +include:websitewelcome.com ~all"
+allopressing.bj                  "v=spf1 +a +mx +a:linheb09.ikoula.com -all"                 
+smspressing.bj                   "v=spf1 a mx -all"
+"v=spf1 +a +mx +ip4:178.79.166.163 +ip4:178.79.138.111 +ip4:80.85.86.126 ~all"
+commerce.bj                      "v=spf1 ip4:154.16.116.168 +a +mx ~all"                     
+highlife.bj                      "v=spf1 +a +mx +ip4:91.234.194.126 ~all"                    
+lemarche.bj                      "v=spf1 +a +mx +ip4:178.79.166.163 +ip4:178.79.138.111 +ip4:80.85.86.126 ~all"
+axime.bj                         "v=spf1 mx a ip4:195.154.33.47 a:ns9.domainemailserver.com ~all"
+somehal.bj                       "v=spf1 +a +mx +ip4:109.234.165.87 include:spf.jabatus.fr ~all"
+megaglobal.bj                    "v=spf1 +a +mx -all"                                        
+situvolailles.bj                 "v=spf1 +a +mx +ip4:192.64.112.83 ~all"                     
+lesbonnesaffaires.bj                                                                         
+raynis.bj                        "v=spf1 +a +mx +ip4:91.234.195.181 +ip4:91.234.195.187 ~all"
+2scsarl.bj                       "v=spf1 +a +mx +ip4:208.91.198.170 ~all"                    
+open.bj                          "v=spf1 ip4:173.208.198.2 +a +mx ~all"                      
+bolivebusinessinter.bj           "v=spf1 +a +mx +ip4:173.249.52.118 +ip4:51.255.169.45 ~all" 
+                                                                                             

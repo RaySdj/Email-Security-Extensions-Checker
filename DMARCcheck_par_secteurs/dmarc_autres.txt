@@ -1,0 +1,135 @@
+
+[1;34mDomain                        [m [1;32mDmarc                         [m
+mcrhema.bj                                                                                   
+baba.bj                          "v=DMARC1; p=reject; pct=100; rua=mailto:info@baba.bj"      
+leland.bj                                                                                    
+intnet.bj                                                                                    
+tc2.bj                                                                                       
+001.bj                                                                                       
+fnda.bj                                                                                      
+lala.bj                                                                                      
+cetra.bj                                                                                     
+jocelynetya.bj                                                                               
+profextra.bj                                                                                 
+mobiweb.bj                                                                                   
+fonac.bj                         "v=DMARC1; p=none"                                          
+dpmed-benin.bj                                                                               
+rgz.bj                                                                                       
+leadershipday.bj                                                                             
+bakertilly.bj                                                                                
+fcomagency.bj                                                                                
+escae.edu.bj                                                                                 
+amazones.bj                                                                                  
+esaetv.bj                        "v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:patrice@tossavi.bj;ruf=mailto:patrice@tossavi.bj"
+unacrep.bj                                                                                   
+videoleader.bj                                                                               
+sgtic.bj                         "v=DMARC1; p=none"                                          
+agentic.bj                       "v=DMARC1; p=none;"                                         
+topfood.bj                                                                                   
+fac.bj                                                                                       
+experts-dev.bj                                                                               
+hotelduport.bj                                                                               
+gits.bj                                                                                      
+starsoft.bj                                                                                  
+girlsinict.bj                                                                                
+bcconsult.bj                     "v=DMARC1; p=none"                                          
+sgesss.bj                                                                                    
+paradisiahotel.bj                                                                            
+phpafrique.bj                                                                                
+unionprogressiste.bj                                                                         
+societe.bj                                                                                   
+tourisme.bj                                                                                  
+drone.bj                                                                                     
+iwe.bj                                                                                       
+hdf.bj                                                                                       
+notreepoque.bj                   "v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:patrice@tossavi.bj;ruf=mailto:patrice@tossavi.bj"
+mecef.bj                                                                                     
+smartconsulting.bj                                                                           
+mobiweb.bj                                                                                   
+glb.bj                           "v=DMARC1; p=none; rua=mailto:info@glb.bj"                  
+pmb.bj                           "v=spf1 -all"                                               
+cipb.bj                                                                                      
+esaefc.bj                        "v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:patrice@tossavi.bj;ruf=mailto:patrice@tossavi.bj"
+bec.bj                                                                                       
+conec.bj                                                                                     
+nic.bj                                                                                       
+anpc.bj                                                                                      
+isoc.bj                                                                                      
+sltalliance.bj                   "v=DMARC1; p=quarantine; rua=mailto:postmaster@sltalliance.bj; aspf=r"
+sfdcamufe.bj                                                                                 
+afriquetransportvoyage.bj        "v=DMARC1; p=quarantine"                                    
+wassebge.bj                                                                                  
+laguna-lodge.bj                                                                              
+cif-vie.bj                                                                                   
+radioaheme.bj                    "v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:patrice@tossavi.bj;ruf=mailto:patrice@tossavi.bj"
+auriane.bj                                                                                   
+synexconsulting.bj               "v=DMARC1; p=none"                                          
+adpg.bj                                                                                      
+fgi.bj                                                                                       
+innovgaani.bj                                                                                
+kouti.bj                                                                                     
+razakoukoni.bj                                                                               
+cdij.bj                                                                                      
+obsvj.bj                                                                                     
+tiktak.bj                                                                                    
+changementsclimatiques.bj                                                                    
+epes.bj                                                                                      
+crtechnologies.bj                                                                            
+amazones.bj                                                                                  
+optimalsolutions.bj                                                                          
+leselections.bj                                                                              
+adspartners.bj                                                                               
+fara-partners.bj                                                                             
+nostress.bj                                                                                  
+stl-transit.bj                                                                               
+notaires.bj                                                                                  
+atlantiqueassurances.bj                                                                      
+ccgu.bj                                                                                      
+g0uv.bj                          "v=DMARC1; p=reject; rua=mailto:admin@g0uv.bj; ruf=mailto:admin@g0uv.bj; adkim=s; aspf=s"
+karls.bj                                                                                     
+pgs.bj                                                                                       
+portailpartispolitiques.bj                                                                   
+cdescomptes.bj                                                                               
+les4verites.bj                   "v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:patrice@tossavi.bj;ruf=mailto:patrice@tossavi.bj"
+ngassociates.bj                                                                              
+clubdsibenin.bj                  "v=DMARC1; p=quarantine"                                    
+fipbenin.bj                                                                                  
+geobenin.bj                                                                                  
+tourismbenin.bj                                                                              
+ecobenin.bj                                                                                  
+meteobenin.bj                                                                                
+aufeminin.bj                                                                                 
+lechampion.bj                                                                                
+lemarin.bj                                                                                   
+lexpression.bj                                                                               
+magbayazon.bj                                                                                
+csn.bj                                                                                       
+kuwabo.bj                                                                                    
+houngbo.bj                                                                                   
+jacques.houngbo.bj                                                                           
+ismastudio.bj                                                                                
+obsvjinfo.bj                                                                                 
+yoro.bj                                                                                      
+charles-houeto.bj                                                                            
+yovo.bj                                                                                      
+wasexo.bj                        "v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:patrice@tossavi.bj;ruf=mailto:patrice@tossavi.bj"
+openstreetmap.bj                                                                             
+coman.bj                                                                                     
+fip.bj                           "v=DMARC1; p=none"                                          
+can-benin.bj                                                                                 
+udbn.bj                                                                                      
+jscom.bj                                                                                     
+scl.bj                                                                                       
+frl.bj                           "v=DMARC1; p=none"                                          
+am.bj                                                                                        
+eeadshalom.bj                                                                                
+dnsforum.bj                                                                                  
+gankan.bj                                                                                    
+nfn.bj                                                                                       
+linformateur.bj                  "v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:patrice@tossavi.bj;ruf=mailto:patrice@tossavi.bj"
+mmhealthservices.bj                                                                          
+anticorr.bj                                                                                  
+bonjour.bj                                                                                   
+ics-acs.bj                                                                                   
+showbizawards.bj                                                                             
+smartservices.bj                                                                             

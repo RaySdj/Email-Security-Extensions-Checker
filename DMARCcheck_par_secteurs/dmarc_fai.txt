@@ -1,0 +1,18 @@
+
+[1;34mDomain                        [m [1;32mDmarc                         [m
+mtn.bj                                                                                       
+moov.bj                                                                                      
+via.bj                                                                                       
+otitelecom.bj                    "v=DMARC1; p=quarantine; rua=mailto:sleadi1@otitelecom.com; ruf=mailto:sleadi@otitelecom.com; pct=100; fo=1;"
+sudtelecom.bj                                                                                
+jenysas.bj                                                                                   
+isocelmail.bj                    "v=DMARC1; p=reject;sp=reject;pct=100;" "adkim=s;aspf=s;fo=1;ri=86400;rua=mailto:dmarc@isocelmail.bj; ruf=mailto:dmarc@isocelmail.bj"
+tdshosting.bj                    "v=DMARC1; p=quarantine"                                    
+fibrocom.bj                                                                                  
+4gbenin.bj                                                                                   
+benintelecoms.bj                 "v=DMARC1; p=none"                                          
+technodatastore.bj               "v=DMARC1; p=quarantine"                                    
+knif.bj                                                                                      
+be.bj                            "v=DMARC1; p=none"                                          
+beninweb.bj                                                                                  
+technodatasolutions.bj           "v=DMARC1; p=none; rua=mailto:clissanon@technodatasolutions.bj"

@@ -1,0 +1,20 @@
+
+Domain                         Dkim Record                   
+uac.bj                                                                                       
+iscguniversite.edu.bj                                                                        
+esepleberger.edu.bj                                                                          
+iup.edu.bj                                                                                   
+escae.edu.bj                                                                                 
+unstim.bj                                                                                    
+esmer.bj                                                                                     
+cnertp.bj                                                                                    
+espeduc.bj                                                                                   
+eigb.bj                                                                                      
+esae.bj                                                                                      
+education.benin.bj                                                                           
+eresultat.bj                                                                                 
+elearning.bj                                                                                 
+fnrsit.bj                                                                                    
+epitech.bj                                                                                   
+decsupbenin.bj                                                                               
+academie-sciences.bj 

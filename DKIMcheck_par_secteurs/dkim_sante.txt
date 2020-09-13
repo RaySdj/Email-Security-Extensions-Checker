@@ -1,0 +1,7 @@
+
+Domain                         Dkim Record                   
+passalafia.bj                                                                                
+abrp.bj                                                                                      
+posam.bj                                                                                     
+cmf.bj                                                                                       
+aboschvi.bj 

@@ -1,0 +1,58 @@
+
+[1;34mDomain                        [m [1;32mDmarc                         [m
+gouv.bj                          "v=DMARC1; p=none; pct=100; rua=mailto:gouvadmin@gouv.bj; ruf=mailto:gouvadmin@gouv.bj"
+sgg.gouv.bj                      "v=DMARC1; p=reject; pct=100; rua=mailto:gouvadmin@gouv.bj; ruf=mailto:gouvadmin@gouv.bj"
+ortb.bj                                                                                      
+anpe.bj                                                                                      
+agriculture.gouv.bj              "" "v=DMARC1"                                               
+eciment.bj                                                                                   
+mairieparakou.bj                                                                             
+aeroportdecotonou.bj                                                                         
+tribunalcommercecotonou.bj                                                                   
+mairiecome.bj                                                                                
+assemblee-nationale.bj                                                                       
+scb-lafarge.bj                                                                               
+anpme.bj                                                                                     
+consulatburkina.bj                                                                           
+cena.bj                                                                                      
+inpf.bj                                                                                      
+finances.bj                      "v=DMARC1;p=quarantine;pct=100;"                            
+monentreprise.bj                 "v=DMARC1; p=none"                                          
+fda.bj                                                                                       
+fga.bj                                                                                       
+soneb.bj                                                                                     
+oefbenin.bj                                                                                  
+anatt.bj                                                                                     
+courconstitutionnellebenin.bj                                                                
+justiceetlegislation.bj                                                                      
+cnsr.bj                          "v=DMARC1; p=none"                                          
+armp.bj                                                                                      
+controlefinancier.bj                                                                         
+anlc.bj                          "v=DMARC1; p=none"                                          
+lnb.bj                                                                                       
+jevoteccib.bj                                                                                
+ccib.bj                                                                                      
+mairie-abomey-calavi.bj                                                                      
+seme-podji.bj                                                                                
+suivipag.bj                                                                                  
+anssi.bj                         "" "v=DMARC1"                                               
+assi.bj                                                                                      
+aglo.bj                                                                                      
+anip.bj                                                                                      
+presidence.bj                    "v=DMARC1;pct=100;ruf=mailto:dssi@presidence.bj;rua=mailto:dssi@presidence.bj;p=reject"
+are.bj                                                                                       
+permisdeconstruire.bj                                                                        
+laposte.bj                       "v=DMARC1; p=none"                                          
+onpe.bj                                                                                      
+abe.bj                                                                                       
+sbee.bj                                                                                      
+innovgaani.bj                                                                                
+fnpeej.bj                                                                                    
+sigfej.bj                                                                                    
+douanes.bj                                                                                   
+cnsrbenin.bj                     "v=DMARC1; p=none"                                          
+budgetbenin.bj                                                                               
+barreaudubenin.bj                                                                            
+ign.bj                                                                                       
+absucep.bj                                                                                   
+arcep.bj                                                                                     

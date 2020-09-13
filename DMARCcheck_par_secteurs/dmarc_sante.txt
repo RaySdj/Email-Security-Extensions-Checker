@@ -1,0 +1,7 @@
+
+[1;34mDomain                        [m [1;32mDmarc                         [m
+passalafia.bj                                                                                
+abrp.bj                          "v=DMARC1; p=none;"                                         
+posam.bj                                                                                     
+cmf.bj                                                                                       
+aboschvi.bj                                                                                  

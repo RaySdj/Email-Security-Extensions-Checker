@@ -1,0 +1,19 @@
+
+[1;34mDomain                        [m [1;32mSPF records                   [m
+mtn.bj                           "v=spf1 a mx -all"                                          
+moov.bj                          "v=spf1 mx a:mail.moov.bj ip4:41.138.88.4 ~all"             
+via.bj                           "v=spf1 ip4:37.187.252.187 +a +mx ~all"                     
+otitelecom.bj                    "v=spf1 mx a ip4:154.127.32.42/32 ip4:41.74.12.130/25 ip4:41.74.12.132/25 ip4:41.74.12.131/25 ip4:41.74.12.130/25  ip4:154.127.32.66/32 ip4:185.65.56.175/32 -all"
+sudtelecom.bj                    "v=spf1 a mx -all"                                          
+jenysas.bj                       "v=spf1 a mx ip4:80.85.86.126 ~all"
+"v=spf1 a mx -all"      
+isocelmail.bj                    "v=spf1 ip4:41.86.224.73 -all"                              
+tdshosting.bj                    "v=spf1 a mx ip4:160.0.252.4"                               
+fibrocom.bj                      "v=spf1 +a +mx +ip4:54.39.193.38 +ip4:54.39.133.15 +ip4:51.89.155.5 ~all"
+4gbenin.bj                                                                                   
+benintelecoms.bj                 "v=spf1 +a +mx +ip4:81.91.225.9 +ip4:41.216.47.22 -all"     
+technodatastore.bj               "v=spf1 a mx ip4:160.0.252.8"                               
+knif.bj                          "v=spf1 +a +mx +ip4:54.39.133.15 ~all"                      
+be.bj                            "v=spf1 +a +mx +ip4:41.85.175.134 ~all"                     
+beninweb.bj                      "v=spf1 +a +mx +ip4:51.79.98.19 +ip4:149.56.118.59 +ip4:192.99.150.79 +ip4:24.37.217.163 ~all"
+technodatasolutions.bj           "v=spf1 a mx ip4:160.0.252.6"                               

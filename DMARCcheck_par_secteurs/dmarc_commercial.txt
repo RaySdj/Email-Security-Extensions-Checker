@@ -1,0 +1,26 @@
+
+[1;34mDomain                        [m [1;32mDmarc                         [m
+taka.bj                                                                                      
+betra.bj                                                                                     
+amab.bj                                                                                      
+hertz.bj                                                                                     
+t-shop.bj                                                                                    
+afriregister.bj                                                                              
+dokaanou.bj                                                                                  
+sunkompanye.bj                                                                               
+m-recycling.bj                                                                               
+allopressing.bj                  "v=DMARC1; p=none"                                          
+smspressing.bj                                                                               
+commerce.bj                                                                                  
+highlife.bj                                                                                  
+lemarche.bj                                                                                  
+axime.bj                                                                                     
+somehal.bj                                                                                   
+megaglobal.bj                    "v=DMARC1; p=reject; sp=none; rf=afrf; pct=100; ri=86400"   
+situvolailles.bj                                                                             
+lesbonnesaffaires.bj                                                                         
+raynis.bj                                                                                    
+2scsarl.bj                                                                                   
+open.bj                                                                                      
+bolivebusinessinter.bj           "v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400"
+                                                                                             

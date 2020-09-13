@@ -1,0 +1,11 @@
+
+[1;34mDomain                        [m [1;32mSPF records                   [m
+finances.bj                      "v=spf1 mx ip4:137.255.9.41 a:servers.mcsv.net ~all"        
+bsicbank.bj                      "v=spf1 mx a ~all"                                          
+corisbank.bj                     "v=spf1 a mx ip4:198.27.80.203 ip4:158.85.89.116 ip4:158.85.77.121 ~all"
+cnss.bj                          "v=spf1 mx a ~all"                                          
+bsic.bj                          "v=spf1 mx a ~all"                                          
+etransfert.bj                    "v=spf1 +a +mx +ip4:54.39.133.15 ~all"                      
+cspef.bj                         "v=spf1 ip4:204.93.196.176 include:relay.mailchannels.net +a +mx +ip4:198.38.82.149 ~all"
+fnm.bj                           "v=spf1 +a +mx +ip4:178.79.166.163 +ip4:178.79.138.111 +ip4:80.85.86.126 ~all"
+"v=spf1 a mx -all"

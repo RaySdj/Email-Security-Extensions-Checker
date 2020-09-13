@@ -1,0 +1,7 @@
+Domain                         Dkim Record                   
+aifo-uemoa.bj                                                                                
+alcrer.bj                                                                                    
+mcabenin2.bj                                                                                 
+hcbe.bj                                                                                      
+paj.bj                                                                                       
+nim-buram.bj 
